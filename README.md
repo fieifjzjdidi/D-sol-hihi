@@ -1,1 +1,1 @@
-<!DOCTYPE html><html><body style="background:#000;color:#0f0;text-align:center;font:40px monospace"><div id="x"></div><script>let a=["1","1101","1111","10101","10010"],i=0;setInterval(()=>x.innerHTML+=a[i++]+" ",500)</script></body></html>
+1 1101 1111 10101 10010
