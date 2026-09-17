@@ -1,0 +1,1 @@
+<style>body{background:#000;color:#fff;text-align:center;font:40px Arial}#c{font-size:55px;margin:20vh 0 20px}#n{animation:f .15s 10}@keyframes f{50%{opacity:0}}</style><div id=c>🐱</div><div id=n>1 13 15 21 18</div>
